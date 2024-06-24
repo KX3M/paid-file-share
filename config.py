@@ -1,3 +1,5 @@
+#This is a paid file share bot!
+#Price - 400Rs
 from operator import add
 import os
 import logging
